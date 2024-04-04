@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add New Record With Duplicate Employee ID</description>
+   <name>Add New Record With Duplicate Employee ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27ef0099-ec97-488e-9815-1e2e16b246e5</testCaseGuid>
+</TestCaseEntity>

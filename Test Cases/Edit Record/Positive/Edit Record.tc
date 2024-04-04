@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit Record with Valid data</description>
+   <name>Edit Record</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c058137d-a624-45c1-b028-dbea6ea5640e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add New Record with Valid data</description>
+   <name>Add New Record</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ebc7cf2-102c-4bfe-9c78-66cbdbdf0116</testCaseGuid>
+</TestCaseEntity>
